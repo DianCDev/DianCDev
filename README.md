@@ -1,6 +1,8 @@
-## 👋Hey there! I’m Diana, nice to meet you. 
-   💫 Passionate web development student, learning to create through code, design, 
-      and artistic essence as a form of digital expression.
+<div align="center">
+<h1 align="center">Hey there! I’m Diana, nice to meet you.  
+               💫 Passionate web development student, learning to create through code, design, 
+                   and artistic essence as a form of digital expression. 👋</h1>
+</div>
 <!--
 **DianCDev/DianCDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
