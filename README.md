@@ -4,8 +4,7 @@
 
 <p align="right">
 💫 <strong>Passionate web development student, learning to create through code, design, and artistic essence as a form of digital expression.</strong>
-</p>
-</division>
+
 <imagen origen="file:///C:/Users/HP/Pictures/Saved%20Pictures/Canva%20IA%20-%20Canva.html">
 
 <!--
