@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy una apasionada del desarrollo y las buenas ideas.
+Aquí encontrarás proyectos que combinan lógica, diseño y un poco de café. ☕💻
 
 <!--
 **DianCDev/DianCDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
