@@ -5,7 +5,7 @@
 <p align="right">
 💫 <strong>Passionate web development student, learning to create through code, design, and artistic essence as a form of digital expression.</strong>
 
-<imagen origen="file:///C:/Users/HP/Pictures/Saved%20Pictures/Canva%20IA%20-%20Canva.html">
+<imagen origen="[file:///C:/Users/HP/Pictures/Saved%20Pictures/Canva%20IA%20-%20Canva.htm](https://www.canva.com/design/DAG103H1llM/72hIfdYWMUdObZgHOlAyhA/edit?utm_content=DAG103H1llM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)l">
 
 <!--
 **DianCDev/DianCDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
