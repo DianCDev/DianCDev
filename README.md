@@ -1,4 +1,6 @@
-## 👋 ¡Hola! Soy Diana . Estudiante apasionada por el desarrollo web, aprendiendo a crear con código, diseño y esencia artística como medio de expresión digital.
+## 👋Hey there! I’m Diana, nice to meet you. 
+   💫 Passionate web development student, learning to create through code, design, 
+      and artistic essence as a form of digital expression.
 <!--
 **DianCDev/DianCDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
